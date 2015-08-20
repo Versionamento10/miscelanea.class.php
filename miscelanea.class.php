@@ -1,5 +1,6 @@
 <?php
     class Miscelanea{
+        teste
     }
 
 public $pais;
